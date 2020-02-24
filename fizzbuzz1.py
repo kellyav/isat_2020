@@ -1,13 +1,9 @@
 #FIZZBUZZ PROGRAM 1: 2/5/2020
 # Alexa Kelly 
 
-#program that prints the numbers from 1 to 100. 
-#But for multiples of three print “Fizz” instead of the number 
-#and for the multiples of five print “Buzz”. 
-#For numbers which are multiples of both three and five print “FizzBuzz”.
-
-# checking n :
-#n= 76
+#program that checks for mutliples of 3, 5 and 15. 
+#for multiples of three print “Fizz” instead of the number, for the multiples of five print “Buzz”. 
+#for a number that is a multiple of both three and five print “FizzBuzz”, otherwise return the input.
 
 # user inputs n:
 print("Enter a value for n between 1 and 100:")
@@ -23,6 +19,5 @@ else:
             print('fizz')
         else:
             print(n)
-
 
 # run in command line by typing: python fizzbuzz1.py. then input a number 
