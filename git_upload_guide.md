@@ -15,8 +15,27 @@ then
 $ git clone https://hostname/YOUR-GITHUB-USERNAME/THE-REPOSITORY 
 ```
 This will create a folder in your computer exactly like the respository on Github. 
+
 Add the folder/ files you want to upload to the repository on Github to this local version of the repository on your computer. 
 ```
 $ git add .
 ```
+You can also type 'git add filename', but the "." will add any changes made to the remote folder.
+
+Check that the files were added, before commiting the changes:
+```
+$ git status
+```
+
+If the git status shows exactly what was intended to happen, commit the changes:
+```
+$ git -m "add a message here about the commit for github to display"
+```
+
+Once the commit is succesful, push the changes onto the remote repository
+```
+$ git push
+```
+Now, the file(s) you wanted to add will show up on your GitHub repository!
+
 
