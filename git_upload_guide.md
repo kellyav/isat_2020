@@ -29,7 +29,7 @@ $ git status
 
 If the git status shows exactly what was intended to happen, commit the changes:
 ```
-$ git -m "add a message here about the commit for github to display"
+$ git commit -m "add a message here about the commit for github to display"
 ```
 
 Once the commit is succesful, push the changes onto the remote repository
@@ -37,5 +37,3 @@ Once the commit is succesful, push the changes onto the remote repository
 $ git push
 ```
 Now, the file(s) you wanted to add will show up on your GitHub repository!
-
-
