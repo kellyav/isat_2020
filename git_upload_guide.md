@@ -32,7 +32,17 @@ If the git status shows exactly what was intended to happen, commit the changes:
 $ git commit -m "add a message here about the commit for github to display"
 ```
 
-Once the commit is succesful, push the changes onto the remote repository
+When work is done on the remote repository (on github), those changes will not be automatically reflected on the local repositroy on your computer. This may not be reflected in the output of git status
+Thus, when trying to commit a new file to the remote repo.
+You need to update the changes so that it is up to date on the local branch. This means that we have to pull the changes before commiting:
+
+So, you'll need to perform a pull request first...
+
+```
+$ git pull
+```
+This will list all the changes to the repository that were updated. 
+Then all you have to do is push, so that the files from the local repository that were originally going to be updated. push the changes onto the remote repository
 ```
 $ git push
 ```
