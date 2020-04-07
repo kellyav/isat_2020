@@ -1,9 +1,10 @@
-# A guide I have written on How to upload files using mac terminal command line
+# A guide on How to upload files using command line
+I used mac terminal for this instruction. There may be a slight variation for windows computers. 
 
-1. Create the respository and/ or clone it. 
+Create the respository and/ or clone it. 
 Create a (remote) repository on Github's webstie, and click clone or download. Then, copy the link this provides.
 
-2. Open terminal, and change the current working directory to the location where you want the cloned directory to be made.
+Open terminal, and change the current working directory to the location where you want the cloned directory to be made.
 to do this, type
 ```
 $ git init
