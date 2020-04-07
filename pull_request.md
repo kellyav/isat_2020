@@ -20,6 +20,6 @@ $ git pull
 ```
 
 This will list all the changes to the repository that were updated. Then all you have to do is push, so that the files from the local repository that were originally going to be updated.
-'''
+```
 $ git push
 ```
