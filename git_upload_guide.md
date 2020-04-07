@@ -1,6 +1,4 @@
-""" A guide I have written on 
-How to upload files using mac terminal command line
-"""
+# A guide I have written on How to upload files using mac terminal command line
 
 1. Create the respository and/ or clone it. 
 Create a (remote) repository on Github's webstie, and click clone or download. Then, copy the link this provides.
