@@ -5,7 +5,7 @@ Thus, when trying to commit a new file to the remote repo,
 $ git init
 ```
 ```
-$ git cd yourrepository
+$ git cd nameofyourrepository
 ```
 ```
 $ git add .
