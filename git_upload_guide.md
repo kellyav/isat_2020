@@ -2,6 +2,9 @@
 I used mac terminal for this instruction. There may be a slight variation for windows computers. 
 
 ## Set up the local environment
+### This requires you to have the necessary git packages beforehand.
+
+
 Create a (remote) repository on Github's webstie, and click 'clone or download'. Then, copy the link this provides.
 
 Open terminal, and change the current working directory to the location where you want the cloned directory to be made.
