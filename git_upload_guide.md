@@ -2,7 +2,7 @@
 I used mac terminal for this instruction. There may be a slight variation for windows computers. 
 
 ## Set up the local environment
-### This requires you to have the necessary git packages beforehand. [Windows users may have to download Git and set it up first.](https://github.com/kellyav/isat_2020/TBD "downloading Git for the first time")
+### This requires you to have the necessary git packages beforehand. [Windows users may have to download Git and set it up first.](https://github.com/kellyav/isat_2020/blob/master/settingupgit.md "downloading Git for the first time")
 
 
 Create a (remote) repository on Github's webstie, and click 'clone or download'. Then, copy the link this provides.
