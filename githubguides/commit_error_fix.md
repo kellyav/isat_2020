@@ -1,6 +1,6 @@
 # Handling this common commit error 
-If youre not careful, this message will pop up after you tyr to commit something to your repository, 
-if you git commit without a message (-m)
+If you're not careful, this message will pop up after you type to commit something to your repository, 
+aka if you git commit without a message (-m)
 
 You can get out of it by:
 Two options:
@@ -8,6 +8,7 @@ Two options:
 2. Leave blank to abort the commit.
 
 Then, Hit the 'esc' key, type **":wq"** and hit enter. 
+In order for the message to be saved correctly you need to write it and then quit to exit out of it. Thus, the w and q.
 
 If you chose option one, then the commit is cancelled and youll have to type 'git commit -m "message"' all over again.
 If you chose option two, then the commit will occur and youre good to go for the next step of the upload process.
