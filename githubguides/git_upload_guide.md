@@ -50,6 +50,13 @@ If the git status shows exactly what was intended to happen, commit the changes:
 $ git commit -m "add a message here about the commit for github to display"
 ```
 
+if you do not write '-m "message"' then there will be an error message:
+``` 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+```
+type :wq and press enter 
+
 *At this point, the commit might be succesful, or it might fail.*
 
 When work is done on the remote repository (on github), those changes will not be automatically reflected on the local repositroy on your computer. This includes changes done by other contributors. This may not be reflected in the output of git status, and will make the commit fail.
