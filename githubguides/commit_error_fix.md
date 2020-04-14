@@ -12,26 +12,49 @@ If you chose option one, then the commit is cancelled and youll have to type 'gi
 If you chose option two, then the commit will occur and youre good to go for the next step of the upload process.
 
 Example of the error:
+
 \# Please enter the commit message for your changes. Lines starting
+
 \# with '#' will be ignored, and an empty message aborts the commit.
+
 \# On branch master
+
 \# Your branch is ahead of 'origin/master' by 1 commit.
+
 \#   (use "git push" to publish your local commits)
+
 \#
+
 \# Changes to be committed:
+
 \#       modified:   README.md
+
 \#
+
 \# Untracked files:
+
 \#       README.workingd
+
 \#
-\~                                                                               
-\~                                                                               
-\~                                                                               
-\~                                                                               
-\~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
+
+\~               
+
+\~        
+
+\~    
+
+\~  
+
+\~   
+
+~  
+
+~ 
+
+~ 
+
+~   
+
+~     
+
 -- INSERT --
