@@ -16,14 +16,18 @@ then, using the copied repository url:
 ```
 $ git clone https://hostname/YOUR-GITHUB-USERNAME/THE-REPOSITORY 
 ```
-This will create a folder in your computer exactly like the respository on Github. 
-
+This will create a folder in your computer exactly like the respository on Github. Only do this if you do not have a version of the repository on your local drive. 
 
 *Then, edit the file locally as you please. Make sure changes are saved on the file that is saved in the local repository folder *
 
 
 ## Add the folder/ files you want to upload 
 to the repository on Github from the local version of the repository on your computer. 
+```
+$ git cd pathnameof/yourrepository
+```
+
+'Add' the modified files:
 ```
 $ git add .
 ```
