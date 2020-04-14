@@ -55,7 +55,7 @@ $ git commit -m "add a message here about the commit for github to display"
 When work is done on the remote repository (on github), those changes will not be automatically reflected on the local repositroy on your computer. This includes changes done by other contributors. This may not be reflected in the output of git status, and will make the commit fail.
 Thus, when trying to commit a new file to the remote repo, you need to update the changes so that it is up to date on the local branch. This means that we have to pull the changes before commiting:
 
-So, you'll need to perform a pull request first...
+So, if you did not start by cloning the diretory, you'll need to perform a pull request first...
 ```
 $ git pull
 ```
