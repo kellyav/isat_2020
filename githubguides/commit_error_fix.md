@@ -8,12 +8,13 @@ Two options:
 2. Leave blank to abort the commit.
 
 Then, Hit the 'esc' key, type **":wq"** and hit enter. 
+
 If you chose option one, then the commit is cancelled and youll have to type 'git commit -m "message"' all over again.
 If you chose option two, then the commit will occur and youre good to go for the next step of the upload process.
 
 
 
-*Example of the error:*
+# *Example of the error:*
 
 \# Please enter the commit message for your changes. Lines starting
 
