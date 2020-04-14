@@ -27,6 +27,12 @@ to the repository on Github from the local version of the repository on your com
 $ git cd pathnameof/yourrepository
 ```
 
+the "ls" command lists the file contents of a directory. 
+the "-l" formats the output list a little more structured and the "-a" also lists "hidden" files (which is helpful when working with version control). Showing the contents of the current directory works as follows:
+```
+$ ls -la
+```
+
 'Add' the modified files:
 ```
 $ git add .
