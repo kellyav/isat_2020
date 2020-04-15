@@ -24,7 +24,7 @@ This will create a folder in your computer exactly like the respository on Githu
 ## Add the folder/ files you want to upload 
 to the repository on Github from the local version of the repository on your computer. 
 ```
-$ git cd pathnameof/yourrepository
+$ cd pathnameof/yourrepository
 ```
 
 the "ls" command lists the file contents of a directory. 
