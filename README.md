@@ -17,6 +17,8 @@ As well as supporting functions for these problems: https://github.com/kellyav/e
 - *Completed a datacamp project* on Covid19: https://github.com/kellyav/rfiles/tree/master/Visualizing%20COVID-19
 
 
+I am now well versed in R, Matlab, Python and Javascript. I also use UiPath for another class. 
+
 ### fizzbuzz_stuff folder 
 includes my original two attempts to write a code to play the 'Fizzbuzz game' called fizzbuzz_simple.py and fizzbuzz_list.py, as well as a new code written using test driven development. 
 
