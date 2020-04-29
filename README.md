@@ -16,6 +16,8 @@ As well as supporting functions for these problems: https://github.com/kellyav/e
 
 - *Completed a datacamp project* on Covid19: https://github.com/kellyav/rfiles/tree/master/Visualizing%20COVID-19
 
+- practice on https://exercism.io/my/tracks
+
 
 I am now well versed in R, Matlab, Python and Javascript. I also use UiPath for another class. 
 
