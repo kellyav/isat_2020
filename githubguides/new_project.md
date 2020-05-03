@@ -16,3 +16,4 @@
 ## Begin TDD process 
 
 ## Add-Commit-Push frequently 
+Keeps both local and remote repos up to date and working. 
