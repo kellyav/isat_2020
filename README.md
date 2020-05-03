@@ -25,7 +25,7 @@ https://github.com/kellyav/javafiles
 I am now well versed in R, Matlab, Python and Javascript. I also use UiPath for another class. 
 
 ### fizzbuzz_stuff folder 
-includes my original two attempts to write a code to play the 'Fizzbuzz game' called fizzbuzz_simple.py and fizzbuzz_list.py, as well as a new code written using test driven development. 
+includes my original two attempts to write a code to play the 'Fizzbuzz game' called fizzbuzz_simple.py and fizzbuzz_list.py, as well as a new code written using pytest and test driven development. 
 
 In other words, solution.py, fizzbuzz_test.py, and functions.py together create a code that works and was written by writing code that fails tests using the command line, until the code passes the tests. Each test case fails initially, to ensure that the test works and can catch errors.
 
