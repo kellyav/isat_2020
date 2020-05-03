@@ -53,14 +53,23 @@ similar to python,
 
 2. Add a README.md inclduing descriptive documentation of the project
 
-3. add the apporproate .gitignore file
+3. with node .gitignore file
 
 ### Clone the repo to your hard drive
+and cd into the directory 
 
-### Initialize the project's dev environment 
+### Initialize the project's dev environment
+initialize a new node project: 
+
+```
+npm init
+```
+and answer jest for the testing command
 
 ### Set up TDD tools and write/run a smoke test
-
+```
+npm install --save-dev jest
+```
 
 ### Add-Commit-Push frequently 
 Keeps both local and remote repos up to date and working. 
