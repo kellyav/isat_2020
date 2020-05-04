@@ -19,7 +19,9 @@ I created all these repositories that I have up on Github this year (10). As of 
 As well as supporting functions for these problems: https://github.com/kellyav/eulers_solutions/tree/master/supporting%20functions
 
 - *Started learning Javascript*. Watched tutorials from class, and from Revature. 
- -> Arabic to Roman repo: https://github.com/kellyav/arabic2roman
+
+ -> Arabic to Roman repo: https://github.com/kellyav/arabic2roman 
+ 
  -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 // https://github.com/kellyav/javafiles
 
 
