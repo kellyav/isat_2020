@@ -3,12 +3,11 @@ Code I've written for the Programming & Problem Solving course in the Integrated
 
 ## Semester Progress
 
-See final_reflection for the article I wrote on my experience taking this course. 
+  See the **final_reflection** file for the article I wrote on my experience taking this course. 
 
 
 ### Some highlights:
-I created all these repositories that I have up on Github this year (10). 
-As of May 4th 2020, I have done the following: 
+I created all these repositories that I have up on Github this year (10). As of May 4th 2020, I have done the following: 
 
 - *Completed a datacamp project* on Covid19: https://github.com/kellyav/rfiles/tree/master/Visualizing%20COVID-19
 
@@ -18,7 +17,6 @@ As of May 4th 2020, I have done the following:
 - Coded and uploaded *9 solutions to Project Euler problems*. https://github.com/kellyav/eulers_solutions/tree/master/Solutions
 
 As well as supporting functions for these problems: https://github.com/kellyav/eulers_solutions/tree/master/supporting%20functions
-
 
 - *Started learning Javascript*. Watched tutorials from class, and from Revature. 
  -> Arabic to Roman repo: https://github.com/kellyav/arabic2roman
