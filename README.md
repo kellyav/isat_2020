@@ -2,8 +2,13 @@
 Code I've written for the Programming & Problem Solving course in the Integrated Science and Technology (ISAT) concentration, taken in Spring 2020 at JMU.
 
 ## Semester Progress
-I created all these repositories that I have up on Github this year (8). 
-As of May 1st 2020, I have done the following: 
+
+See final_reflection for the article I wrote on my experience taking this course. 
+
+
+### Some highlights:
+I created all these repositories that I have up on Github this year (10). 
+As of May 4th 2020, I have done the following: 
 
 - *Completed a datacamp project* on Covid19: https://github.com/kellyav/rfiles/tree/master/Visualizing%20COVID-19
 
@@ -15,11 +20,9 @@ As of May 1st 2020, I have done the following:
 As well as supporting functions for these problems: https://github.com/kellyav/eulers_solutions/tree/master/supporting%20functions
 
 
-- *Started learning Javascript*. Watched tutorials from class, and from Revature. https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 
-
-https://github.com/kellyav/javafiles
-
-- Arabic to Roman repo: https://github.com/kellyav/arabic2roman
+- *Started learning Javascript*. Watched tutorials from class, and from Revature. 
+ -> Arabic to Roman repo: https://github.com/kellyav/arabic2roman
+ -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 // https://github.com/kellyav/javafiles
 
 
 I am now well versed in R, Matlab, Python and Javascript.
