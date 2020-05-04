@@ -16,13 +16,13 @@ As well as supporting functions for these problems: https://github.com/kellyav/e
 
 
 - *Started learning Javascript*. Watched tutorials from class, and from Revature. https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 
+
 https://github.com/kellyav/javafiles
 
 - Arabic to Roman repo: https://github.com/kellyav/arabic2roman
 
 
-
-I am now well versed in R, Matlab, Python and Javascript. I also use UiPath for another class. 
+I am now well versed in R, Matlab, Python and Javascript.
 
 ### fizzbuzz_stuff folder 
 includes my original two attempts to write a code to play the 'Fizzbuzz game' called fizzbuzz_simple.py and fizzbuzz_list.py, as well as a new code written using pytest and test driven development. 
