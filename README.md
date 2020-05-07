@@ -2,7 +2,7 @@
 Code I've written for the Programming & Problem Solving course in the Integrated Science and Technology (ISAT) concentration, taken in Spring 2020 at JMU.
 
 ## Semester Progress
-See the **final_reflection** file for the article I wrote on my experience taking this course. 
+See the **final_reflection** file for the article I wrote on my experience taking this course. I am now well versed in R, Matlab, Python and Javascript.
 
 
 ### Some Highlights and Repos:
@@ -24,11 +24,6 @@ As well as supporting functions for these problems: https://github.com/kellyav/e
  -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 // 
  
  https://github.com/kellyav/javafiles
-
-
-
-I am now well versed in R, Matlab, Python and Javascript.
-
 
 
 ### fizzbuzz_stuff folder 
