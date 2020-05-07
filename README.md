@@ -2,18 +2,18 @@
 Code I've written for the Programming & Problem Solving course in the Integrated Science and Technology (ISAT) concentration, taken in Spring 2020 at JMU.
 
 ## Semester Progress
+See the **final_reflection** file for the article I wrote on my experience taking this course. 
 
-  See the **final_reflection** file for the article I wrote on my experience taking this course. 
 
-
-### Some highlights and Repos:
+### Some Highlights and Repos:
 I created all these repositories that I have up on Github this year (10). As of May 4th 2020, I have done the following: 
 
 - *Completed a datacamp project* on Covid19: https://github.com/kellyav/rfiles/tree/master/Visualizing%20COVID-19
 
 - practice on https://exercism.io/my/tracks
 
-- Coded and uploaded *9 solutions to Project Euler problems*. https://github.com/kellyav/eulers_solutions/tree/master/Solutions
+- Coded and uploaded *9 solutions to Project Euler problems*.
+https://github.com/kellyav/eulers_solutions/tree/master/Solutions
 
 As well as supporting functions for these problems: https://github.com/kellyav/eulers_solutions/tree/master/supporting%20functions
 
@@ -21,7 +21,9 @@ As well as supporting functions for these problems: https://github.com/kellyav/e
 
  -> Arabic to Roman repo: https://github.com/kellyav/arabic2roman 
  
- -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 // https://github.com/kellyav/javafiles
+ -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 // 
+ 
+ https://github.com/kellyav/javafiles
 
 
 
