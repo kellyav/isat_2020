@@ -21,9 +21,10 @@ As well as supporting functions for these problems: https://github.com/kellyav/e
 
  -> Arabic to Roman repo: https://github.com/kellyav/arabic2roman 
  
- -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 // 
+ -> https://app.revature.com/dCourseVideos/Introduction%20to%20Java-6 
  
- https://github.com/kellyav/javafiles
+ 
+ - as well as java: https://github.com/kellyav/javafiles
 
 
 ### fizzbuzz_stuff folder 
