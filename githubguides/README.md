@@ -14,7 +14,7 @@ Basic guide of uploading files from the local repo and pushing the changes to th
 Basic guide to creating a new project on Github.
 
 ## pull_request.md
-Basic guide to pull requests
+Basic guide to pull requests.
 
 ## settingupgit.md 
 Basic guide on how to set up your environment for proper Github use. 
