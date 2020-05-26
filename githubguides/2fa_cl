@@ -1,0 +1,35 @@
+# Using Two Factor Authentication with Command Line
+
+After creating the Two Factor Authentication, you will need to basically give access to Terminal (or whatever command line application you use) by genereating a token.
+
+You will not be able to clone your repo or push files to the remote branch unless you complete this process first!
+
+## Go to Dev Settings
+Click settings, then Developer Settings. Then select Personal access tokens
+
+## Generate the token
+Click Generate token, and give it a descriptive name.
+
+You have to pick the scope, or permissions, you'd like to grant this token. 
+In our case, we want to use the token to access GitHub repositories from the command line, so select 'repo' which includes repo:status, repo_deployment, and public_repo.
+
+Select the green Generate Token
+
+Copy the long sequence of characters that is your new token.
+
+**Your token is like a special password. Do not share tokens, and keep them in a safe place. **
+This token will not be available after you refresh the page, so make sure to take it down. 
+
+## Using the token in Terminal 
+after trying to push to your reop (or any other command that will make changes to your remote repo) you will be prompted to sign in to Github.
+Even though it says 'password' you will want to paste your **token**, NOT your account password.
+
+```
+$ git push 
+$ Username: enter_your_username_and_press_enter
+$ Password: paste_your_token_when_prompted
+```
+
+Then, if the token is correct, the changes will be pushed and you're all set!
+
+Happpy pushing!
